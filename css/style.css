@@ -1,0 +1,27 @@
+.login-wrap {
+    padding: 2rem 6rem 0rem 6rem;
+}
+
+
+
+.logo-img {
+    width: 3.5rem;
+}
+
+.gray {
+    color: #B9B8B8;
+}
+
+.image img {
+    border-radius: 20px;
+}
+
+/* .form-control {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 3rem;
+} */
+
+/* .form-control:focus {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+} */
